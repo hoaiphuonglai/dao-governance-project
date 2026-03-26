@@ -1,3 +1,6 @@
 [submodule "code/dao-data-scraping"]
 	path = code/dao-data-scraping
 	url = https://github.com/vietanhrs/dao-data-scraping.git
+[submodule "code/blockchain-sentiment"]
+	path = code/blockchain-sentiment
+	url = https://github.com/SciEcon/BlockchainSentiment2023.git
