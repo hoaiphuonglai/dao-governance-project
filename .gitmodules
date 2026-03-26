@@ -1,6 +1,6 @@
-[submodule "external/dao-data-scraping"]
-	path = external/dao-data-scraping
+[submodule "code/dao-data-scraping"]
+	path = code/code/dao-data-scraping
 	url = https://github.com/vietanhrs/dao-data-scraping.git
-[submodule "external/BlockchainSentiment"]
-	path = external/BlockchainSentiment
+[submodule "code/BlockchainSentiment"]
+	path = code/code/BlockchainSentiment
 	url = https://github.com/SciEcon/BlockchainSentiment2023.git
