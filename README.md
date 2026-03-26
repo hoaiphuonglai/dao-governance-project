@@ -1,4 +1,4 @@
-# DAO governance-project
+# DAO governance project
 ## Overview
 This repository contains the code, data, and analyses conducted as part of my research on governance in Decentralized Autonomous Organizations (DAOs). The project investigates under what conditions DAO governance becomes more centralized, despite their decentralized design, using Ethereum-based DAO data and applying frameworks from Transaction Cost Economics (TCE).
 
